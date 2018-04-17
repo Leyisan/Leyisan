@@ -9,3 +9,5 @@ git track changes;
 many files;
 
 fenzhi；
+Creating a new branch is quick & simple.
+ehm
